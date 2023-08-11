@@ -67,6 +67,7 @@ dependencies:
   image_picker: ^0.8.6
   http_parser: ^4.0.2
   pull_to_refresh: ^2.0.0
+  solar_icons: ^0.0.5
 
 dev_dependencies:
   flutter_test:
@@ -91,9 +92,29 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/images/white.png
+    - assets/images/banner1.png
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/5.png
+    - assets/images/6.png
+    - assets/images/7.png
+    - assets/images/8.png
+    - assets/images/9.png
+    - assets/images/10.png
+    - assets/images/11.png
+    - assets/images/12.png
+    - assets/images/pom.GIF
+    - assets/images/pom_h.GIF
+    - assets/images/oh.GIF
+    - assets/images/oh_h.GIF
+    - assets/images/ggul.GIF
+    - assets/images/ggul_h.GIF
+    - assets/images/jon.GIF
+    - assets/images/jon_h.GIF
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
